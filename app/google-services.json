@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473534332824",
+    "project_id": "taskpro-41a4e",
+    "storage_bucket": "taskpro-41a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473534332824:android:61c058064b874881d4f5ed",
+        "android_client_info": {
+          "package_name": "com.clavius.taskpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOaT1UjDiDXUX_XRNJPmXGNZM4vbc3sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
